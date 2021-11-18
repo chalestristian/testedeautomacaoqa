@@ -11,7 +11,7 @@ Utilizamos o site https://opentdb.com/ para realizar nossos testes, onde fizemos
 Os testes foram feitos na linguagem de programação Java utilizando a biblioteca Selenium.
 
 ---
-*EQUIPE:*
+**EQUIPE:**
 
 
 Thales Cristian - [github.com](https://github.com/chalestristian)
