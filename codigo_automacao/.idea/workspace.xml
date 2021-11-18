@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="562dfe3a-d57d-4f98-9959-cd442bfb1ece" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/realizacadastro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/codigo/com/company/listagemquestao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/codigo/com/company/listagemquestao.class" afterDir="false" />
-    </list>
+    <list default="true" id="562dfe3a-d57d-4f98-9959-cd442bfb1ece" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +89,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/storeTech" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -175,6 +171,7 @@
       <workItem from="1637198134572" duration="1090000" />
       <workItem from="1637200371914" duration="112000" />
       <workItem from="1637200496697" duration="3005000" />
+      <workItem from="1637248752712" duration="14000" />
     </task>
     <servers />
   </component>

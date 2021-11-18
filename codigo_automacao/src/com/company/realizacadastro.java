@@ -22,7 +22,7 @@ public class realizacadastro {
 
 
         WebElement username = driver.findElement(By.id("username"));
-        username.sendKeys("lurosendo23");
+        username.sendKeys("luroassendo23");
 
 
         WebElement password  = driver.findElement(By.id("password"));
@@ -34,7 +34,7 @@ public class realizacadastro {
 
 
         WebElement email = driver.findElement(By.id("email"));
-        email.sendKeys("luisassrosendo@gmail.com");
+        email.sendKeys("luisassrasosendo@gmail.com");
 
         WebElement registrar = driver.findElement(By.xpath("//*[@id=\"page-top\"]/div[2]/form/button"));
         registrar.click();
