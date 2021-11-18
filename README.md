@@ -11,20 +11,20 @@ Utilizamos o site https://opentdb.com/ para realizar nossos testes, onde fizemos
 Os testes foram feitos na linguagem de programação Java utilizando a biblioteca Selenium.
 
 ---
-**EQUIPE:**
+*EQUIPE:*
 
 
-Thales Cristian - [git](https://github.com/chalestristian)
+Thales Cristian - [github.com](https://github.com/chalestristian)
 
-Neuber Tavares - [git](https://github.com/neubertavares)
+Neuber Tavares - [github.com](https://github.com/neubertavares)
 
-Caio Amichi -[git](https://github.com/CaioAmichi)
+Caio Amichi -[github.com](https://github.com/CaioAmichi)
 
-Luisa Rosendo - [git](https://github.com/luisarosendo)
+Luisa Rosendo - [github.com](https://github.com/luisarosendo)
 
-Samuel Messias - [git](https://github.com/smuelmfs)
+Samuel Messias - [github.com](https://github.com/smuelmfs)
 
-Marcio Gomes - [git](https://github.com/marcio-gomes-neto)
+Marcio Gomes - [github.com](https://github.com/marcio-gomes-neto)
 
 ---
 **INSTALAÇÃO:**
