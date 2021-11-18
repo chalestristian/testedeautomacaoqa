@@ -1,6 +1,8 @@
 Funcionalidade: Fazer cadastro
-Cenário: Realiza o cadastro e o fazer o login no site Open Trivia DataBase (https://opentdb.com)
+Cenário: Realizar o cadastro
 Dado que entro no site Open Trivia Database
-E vou na barra de opções e clico em Login
-Quando clico em Register digito meu username, crio minha senha confirmo ela e digito meu e-mail e confirmo
-Então volto para a página inicial logado na minha conta .
+E vou na barra de opções
+E clico em Login
+E clico em Register
+Quando digito meu username, senha e e-mail e confirmo meus dados
+Então finalizo o registro e volto para a página inicial logado na minha conta
