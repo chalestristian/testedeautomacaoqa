@@ -28,3 +28,6 @@ Marcio Gomes - [github.com](https://github.com/marcio-gomes-neto)
 
 ---
 **INSTALAÇÃO:**
+
+Para testar localmente a solução, siga os passos abaixo:
+
