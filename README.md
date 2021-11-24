@@ -31,3 +31,12 @@ Marcio Gomes - [github.com](https://github.com/marcio-gomes-neto)
 
 Para testar localmente a solução, siga os passos abaixo:
 
+O projeto deve ser executado e em um ambiente preparado com:
+- IDE de sua preferencia que suporte Java;
+- Pacote JDK instalado na maquina e configurado na IDE;
+- Biblioteca Selenium em arquivos JAR;
+
+Após a preparação do ambiente, utilizar a própria IDE para dar um PULL no projeto no GitHub github.com/chalestristian/testedeautomacaoqa, ou se preferir utilizar o GitBash. 
+Antes de executar o projeto, certifique se de Preparar o chromerDriver no código com o diretorio de onde está o executável "chromedriver.exe" na sua maquina.
+
+
